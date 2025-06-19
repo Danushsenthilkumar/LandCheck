@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# VS Code settings (optional)
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs and local dev data
+*.log
+*.sqlite3
+
+# Migrations (optional if generated automatically)
+migrations/
+
+# Python tooling
+*.egg-info/
+dist/
+build/
+
+# Test cache
+.cache/
+.pytest_cache/
+
+# Static and generated files
+staticfiles/
+media/
